@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning : C++
 - 👯 I’m looking to collaborate on : None
 - 🤔 I’m looking for help with : None
-- 💬 Ask me about : Don't 
-- 📫 How to reach me: Don't 
+- 💬 Ask me about : - 
+- 📫 How to reach me: - 
 - 😄 Pronouns: "නවිඳු දනංග"
 - ⚡ Fun fact: null is
