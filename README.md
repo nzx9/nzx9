@@ -6,5 +6,4 @@
 - 💬 Ask me about : Don't 
 - 📫 How to reach me: Don't 
 - 😄 Pronouns: "නවිඳු දනංග"
-- ⚡ Fun fact: null is NULL or Null or Nill or 
-
+- ⚡ Fun fact: null is
