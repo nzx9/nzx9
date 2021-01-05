@@ -1,7 +1,7 @@
 
 
 <p>
-<h1> Hi there 👋 I'm <span style="color:blue">Navindu Dananga</span></h1><span><img src="https://visitor-badge.laobi.icu/badge?page_id=krypto-i9" /></span>
+<h3> Hi there 👋 I'm <span><h2>Navindu Dananga</h2></span></h3><span><img src="https://visitor-badge.laobi.icu/badge?page_id=krypto-i9" /></span>
 </p>
 
 - 🌱 I’m currently learning : C++
@@ -13,9 +13,9 @@
 - ⚡ Fun fact: null is
 
 <p>
-<img src="https://img.shields.io/badge/C%20-%23323330.svg?&style=for-the-badge&logo=c&logoColor=#A8B9CC"/>
-<img src="https://img.shields.io/badge/C++%20-%23323330.svg?&style=for-the-badge&logo=?logo=c-plus-plus&logoColor=#00599C"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>
-<img src="https://img.shields.io/badge/html%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=red"/>
-<img src="https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=blue"/>
+<img src="https://img.shields.io/static/v1?message=C&logo=c&labelColor=000000&color=A8B9CC&logoColor=A8B9CC&style=for-the-badge&label=%20" /> 
+<img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=c%2B%2B&labelColor=000000&color=00599C&logoColor=00599C&style=for-the-badge&label=%20" /> 
+<img src="https://img.shields.io/static/v1?message=JAVASCRIPT&logo=javascript&labelColor=000000&color=F7DF1E&logoColor=F7DF1E&style=for-the-badge&label=%20" /> 
+<img src="https://img.shields.io/static/v1?message=HTML&logo=css3&labelColor=000000&color=E34F26&logoColor=E34F26&style=for-the-badge&label=%20" /> 
+<img src="https://img.shields.io/static/v1?message=CSS&logo=css3&labelColor=000000&color=1572B6&logoColor=1572B6&style=for-the-badge&label=%20" />
 </p>
