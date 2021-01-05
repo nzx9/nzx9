@@ -11,3 +11,11 @@
 - 📫 How to reach me: @nav_i9 (twitter)
 - 😄 Pronouns: "නවිඳු දනංග"
 - ⚡ Fun fact: null is
+
+<p>
+<img src="https://img.shields.io/badge/-C-green"/>
+<img src="https://img.shields.io/badge/-C++-purple"/>
+<img src="https://img.shields.io/badge/-JavaScript-yellow"/>
+<img src="https://img.shields.io/badge/-HTML-red"/>
+<img src="https://img.shields.io/badge/-CSS-blue"/>
+</p>
