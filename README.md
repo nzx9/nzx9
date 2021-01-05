@@ -1,7 +1,7 @@
 
 
 <p>
-<h1> Hi there 👋 I'm <em style="color:yellow">Navindu Dananga</em></h1><span><img src="https://visitor-badge.laobi.icu/badge?page_id=krypto-i9" /></span>
+<h1> Hi there 👋 I'm <span style="color:lightgreen">Navindu Dananga</span></h1><span><img src="https://visitor-badge.laobi.icu/badge?page_id=krypto-i9" /></span>
 </p>
 
 - 🌱 I’m currently learning : C++
