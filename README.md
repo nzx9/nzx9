@@ -11,7 +11,7 @@
   <a href="https://github.com/krypto-i9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&labelColor=ffffff&color=181717&logoColor=181717&style=flat-square&label=%20" />
   </a>
-  <a href="https://linkedin.com/navindu-dananga" target="_blank">
+  <a href="https://linkedin.com/in/navindu-dananga" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=ffffff&color=0077B5&logoColor=0077B5&style=flat-square&label=%20" />
   </a>
    <a href="https://stackoverflow.com/users/13405643/navindu" target="_blank">
