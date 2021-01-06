@@ -1,10 +1,11 @@
 
 
-<p>
-<h3> Hi there 👋 I'm, <span><h2>Navindu Dananga<span align="right">&nbsp;&nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=krypto-i9" /></span></h2></span></h3>
+<p align='center'>
+<h3 align='center'> Hi there 👋 I'm, <span><h2>Navindu Dananga<span align="right"></span></h2></span></h3>
 </p>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=krypto-i9" /></p>
 
-<p>
+<p align='center'>
   <a href="https://twitter.com/nav_i9" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&labelColor=ffffff&color=1DA1F2&logoColor=1DA1F2&style=flat-square&label=%20" />
   </a>
@@ -29,7 +30,7 @@
 </pre>
 </p>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/static/v1?message=C&logo=c&labelColor=000000&color=A8B9CC&logoColor=A8B9CC&style=for-the-badge&label=%20" /> 
 <img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=c%2B%2B&labelColor=000000&color=00599C&logoColor=00599C&style=for-the-badge&label=%20" /> 
 <img src="https://img.shields.io/static/v1?message=JAVASCRIPT&logo=javascript&labelColor=000000&color=F7DF1E&logoColor=F7DF1E&style=for-the-badge&label=%20" />
