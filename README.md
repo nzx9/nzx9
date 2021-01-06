@@ -2,7 +2,7 @@
 
 <p align='center'>
   <h3 align='center'> Hi there 👋 I'm,</h3>
-  <h2 align='center'>Navindu Dananga</h2>
+  <h1 align='center'>Navindu Dananga</h1>
 </p>
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=krypto-i9" /></p>
 
