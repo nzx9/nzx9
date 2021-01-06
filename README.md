@@ -18,15 +18,21 @@
     <img alt="GitHub" src="https://img.shields.io/static/v1?message=GitHub&logo=github&labelColor=ffffff&color=181717&logoColor=181717&style=flat-square&label=%20" />
   </a>
 </p>
-
-
-- 🌱 I’m currently learning : C++
-- 👯 I’m looking to collaborate on : None 
-- 🤔 I’m looking for help with : None
-- 💬 Ask me about : Anything I know. 😂 
-- 📫 How to reach me: @nav_i9 (twitter)
-- 😄 Pronouns: "නවිඳු දනංග"
-- ⚡ Fun fact: null is
+<p>
+  <pre>                                                                         mm            
+*@@@@* *@@@*                                    @@                       @@            
+  @@   m@*                                      @@                                     
+  @@ m@*       *@@@m@@@ *@@*   *@@**@@@@@@@@m @@@@@@   m@@*@@m         *@@@    m@m*m@mm
+  @@@@@m         @@* **   @@   m@    @@   *@@   @@    @@*   *@@          @@   @@@    @@
+  !@  @@!        @!        @@ m!     !@    @@   @@    @@     @@  @@@@@   !@   @@@    @@
+  !@   *!!m      @!         @@!      !@    !@   @!    @@     !@          !@    *@@@@@@@
+  !!    !:!      !!         @!!      !@!   !!   !!    !@     !!          !!   !!!    !!
+  !!     :!!!    !:         !!:      !@   !!!   !!    !!!   !!!          !!    *!!!!!!!
+: : :      : : : :::        !!       :!: : :    ::: :  : : : :         : : :        : :
+                          ::!        ::                                          :::   
+                        :::        : : ::                                      :::     
+</pre>
+</p>
 
 <p>
 <img src="https://img.shields.io/static/v1?message=C&logo=c&labelColor=000000&color=A8B9CC&logoColor=A8B9CC&style=for-the-badge&label=%20" /> 
