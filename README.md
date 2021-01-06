@@ -1,7 +1,7 @@
 
 
 <p>
-<h3> Hi there 👋 I'm, <span><h2>Navindu Dananga</h2></span></h3>
+<h3> Hi there 👋 I'm, <span><h2>Navindu Dananga<span align="right">&nbsp;&nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=krypto-i9" /></span></h2></span></h3>
 </p>
 
 <p>
@@ -18,7 +18,7 @@
     <img alt="GitHub" src="https://img.shields.io/static/v1?message=GitHub&logo=github&labelColor=ffffff&color=181717&logoColor=181717&style=flat-square&label=%20" />
   </a>
 </p>
-<p><img src="https://visitor-badge.laobi.icu/badge?page_id=krypto-i9" /></p>
+
 
 - 🌱 I’m currently learning : C++
 - 👯 I’m looking to collaborate on : None 
