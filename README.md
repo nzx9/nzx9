@@ -1,7 +1,8 @@
 
 
 <p align='center'>
-<h3 align='center'> Hi there 👋 I'm, <span><h2>Navindu Dananga<span align="right"></span></h2></span></h3>
+  <h3 align='center'> Hi there 👋 I'm,</h3>
+  <h2 align='center'>Navindu Dananga</h2>
 </p>
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=krypto-i9" /></p>
 
