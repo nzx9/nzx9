@@ -16,18 +16,21 @@
    <a href="https://stackoverflow.com/users/13405643/navindu" target="_blank" >
     <img alt="StackOverFlow" src="https://img.shields.io/static/v1?message=StackOverFlow&logo=stackoverflow&labelColor=ffffff&color=FE7A16&logoColor=FE7A16&style=flat-square&label=%20" />
   </a>
-  <a href="https://github.com/krypto-i9" target="_blank">
+  <a href="https://github.com/nzx9" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/static/v1?message=GitHub&logo=github&labelColor=ffffff&color=181717&logoColor=181717&style=flat-square&label=%20" />
   </a>
 </p>
 <p algin="center">
-  <pre>            
-                       ██╗  ██╗██████╗ ██╗   ██╗██████╗ ████████╗ ██████╗     ██╗ █████╗ 
-                       ██║ ██╔╝██╔══██╗╚██╗ ██╔╝██╔══██╗╚══██╔══╝██╔═══██╗    ██║██╔══██╗
-                       █████╔╝ ██████╔╝ ╚████╔╝ ██████╔╝   ██║   ██║   ██║    ██║╚██████║
-                       ██╔═██╗ ██╔══██╗  ╚██╔╝  ██╔═══╝    ██║   ██║   ██║    ██║ ╚═══██║
-                       ██║  ██╗██║  ██║   ██║   ██║        ██║   ╚██████╔╝    ██║ █████╔╝
-                       ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝        ╚═╝    ╚═════╝     ╚═╝ ╚════╝ 
+<pre>            
+                                           ▄▄    ▄ ▄▄▄▄▄▄▄ ▄▄   ▄▄ ▄▄▄▄▄▄▄ 
+                                          █  █  █ █       █  █▄█  █  ▄    █
+                                          █   █▄█ █▄▄▄▄   █       █ █ █   █
+                                          █       █▄▄▄▄█  █       █ █▄█   █
+                                          █  ▄    █ ▄▄▄▄▄▄██     ██▄▄▄    █
+                                          █ █ █   █ █▄▄▄▄▄█   ▄   █   █   █
+                                          █▄█  █▄▄█▄▄▄▄▄▄▄█▄▄█ █▄▄█   █▄▄▄█
+
+
 </pre>
 </p>
 
@@ -39,5 +42,5 @@
 <img src="https://img.shields.io/static/v1?message=HTML&logo=html5&labelColor=000000&color=E34F26&logoColor=E34F26&style=for-the-badge&label=%20" /> 
 <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&labelColor=000000&color=1572B6&logoColor=1572B6&style=for-the-badge&label=%20" />
 <img src="https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=000000&color=777BB4&logoColor=777BB4&style=for-the-badge&label=%20" />
-<img src="https://img.shields.io/static/v1?message=MATLAB&logo=mathworks&labelColor=000000&color=0076A8&logoColor=0076A8&style=for-the-badge&label=%20" />
+<img src="https://img.shields.io/static/v1?message=OCTAVE&logo=octave&labelColor=000000&color=0790C0&logoColor=0790C0&style=for-the-badge&label=%20" />
 </p>
