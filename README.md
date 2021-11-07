@@ -44,3 +44,8 @@
 <img src="https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=000000&color=777BB4&logoColor=777BB4&style=for-the-badge&label=%20" />
 <img src="https://img.shields.io/static/v1?message=OCTAVE&logo=octave&labelColor=000000&color=0790C0&logoColor=0790C0&style=for-the-badge&label=%20" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nzx9&show_icons=true&count_private=true&custom_title=Github%20Stats" alt="Stats Card"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzx9&layout=compact&langs_count=10&hide=swig,ruby" alt="Top Language Card"/>
+</p>
