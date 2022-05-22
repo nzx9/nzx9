@@ -20,6 +20,10 @@
     <img alt="GitHub" src="https://img.shields.io/static/v1?message=GitHub&logo=github&labelColor=ffffff&color=181717&logoColor=181717&style=flat-square&label=%20" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nzx9" alt="Github Streak"/>
+</p>
 <p algin="center">
 <pre>            
                                            ▄▄    ▄ ▄▄▄▄▄▄▄ ▄▄   ▄▄ ▄▄▄▄▄▄▄ 
